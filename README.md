@@ -1,5 +1,3 @@
-**INCF CHATAPP, GSOC TASK1**
-
 Install all dependencies,then you're good to chat,
 
 
